@@ -30,9 +30,6 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/rn
 #### The Cracked ID's are saved in 'hacked' directory
 ### I am Not Responsible for the Misuse of this Tool !!
 <br>
-<p align="center">
-<img src=".__src__/haxorbd1.png"/>
-</p>
 
 ### << I AM NOT RESPONSIBLE FOR MISUSE >>
 ### <<< If you copy , Then Give me The Credits >>> 
