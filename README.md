@@ -44,5 +44,5 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/rn
 [![Github](https://img.shields.io/badge/Github-rn--509-green?style=for-the-badge&logo=github)](https://github.com/rn509)
 [![Gitlab](https://img.shields.io/badge/Gitlab-rn--509-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/rn509)
 [![Instagram](https://img.shields.io/badge/IG-%40rn509x7-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/rn509x7)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/Afrizal Rizky)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/afrizalrizky)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/riski.risky.520562)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/riski.risky.520562)
