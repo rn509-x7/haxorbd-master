@@ -2,9 +2,9 @@
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Haxor BD" src=".__src__/haxorbd.png"></a>
+<a href="#"><img title="RN 509 - X7" src=".__src__/rn509.png"></a>
 <p align="center">
-<a href="https://github.com/rn509"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rn509"><img title="Author" src="https://img.shields.io/badge/Author-rn--509-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
@@ -51,4 +51,3 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 [![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/tahmid.rayat.official)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
-
