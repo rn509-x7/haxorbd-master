@@ -2,22 +2,20 @@
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="RN 509 - X 7" src=".__src__/rn509.png"></a>
-<p align="center">
 <a href="https://github.com/rn509"><img title="Author" src="https://img.shields.io/badge/Author-rn--509-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
-<a href="https://github.com/htr-tech/haxorbd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/haxorbd?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/haxorbd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/haxorbd?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/haxorbd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/haxorbd?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rn509/followers"><img title="Followers" src="https://img.shields.io/github/followers/rn509?color=blue&style=flat-square"></a>
+<a href="https://github.com/rn509/haxorbd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/rn509/haxorbd?color=red&style=flat-square"></a>
+<a href="https://github.com/rn509/haxorbd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/rn509/haxorbd?color=red&style=flat-square"></a>
+<a href="https://github.com/rn509/haxorbd/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/rn509/haxorbd?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
 
 * `apt update`
 * `apt install git python python2 -y`
-* `git clone https://github.com/htr-tech/haxorbd.git`
+* `git clone https://github.com/rn509/haxorbd.git`
 * `cd haxorbd`
 
 #### > Run : `python2 haxor.py`
@@ -27,7 +25,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/haxorbd.git ; cd haxorbd ; python2 haxor.py
+apt update ; apt install git python python2 -y ; git clone https://github.com/rn509/haxorbd.git ; cd haxorbd ; python2 haxor.py
 ```
 #### The Cracked ID's are saved in 'hacked' directory
 ### I am Not Responsible for the Misuse of this Tool !!
@@ -46,8 +44,8 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 #### [+] Easy for Beginners !
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Gitlab](https://img.shields.io/badge/Gitlab-HTR--TECH-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/tahmid.rayat.official)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+[![Github](https://img.shields.io/badge/Github-rn--509-green?style=for-the-badge&logo=github)](https://github.com/rn509)
+[![Gitlab](https://img.shields.io/badge/Gitlab-rn--509-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/rn509)
+[![Instagram](https://img.shields.io/badge/IG-%40rn509x7-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/rn509x7)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/Afrizal Rizky)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/afrizalrizky)
