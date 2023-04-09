@@ -14,8 +14,8 @@
 
 * `apt update`
 * `apt install git python python2 -y`
-* `git clone https://github.com/rn509/haxorbd.git`
-* `cd haxorbd`
+* `git clone https://github.com/rn509/haxorbd-master
+* `cd haxorbd-master`
 
 #### > Run : `python2 haxor.py`
 
